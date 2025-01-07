@@ -1,0 +1,7 @@
+IF
+Global("SGTPutAmulet","GLOBAL",0)
+THEN
+RESPONSE #100
+SetGlobal("SGTPutAmulet","GLOBAL",1)
+GiveItemCreate("sgt_amul",Player1,1,0,0)
+END

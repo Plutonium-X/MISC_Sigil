@@ -1,0 +1,63 @@
+@0    = ~Which of 12 parts do you want to press?~
+@1    = ~"CrowX" - mentor of violence~
+@2    = ~"Dalucca" - master of invisibility~
+@3    = ~"drake127" - master of the webs~
+@4    = ~"Jab" - dead souls' destroyer~
+@5    = ~"MCZ" - master of colors~
+@6    = ~"Razfallow" - guardian of silence~
+@7    = ~"sevencreature" - master of time~
+@8    = ~"Tokkar" - master of unity and commands~
+@9    = ~"Vampiria" - lady of charm and delusion~
+@10   = ~"Vlasák" - guardian of goodness~
+@11   = ~"Yachiko" - master of attention and order~
+@12   = ~"yenn" - master of decay~
+@13   = ~Store the amulet away... ~
+@14   = ~Although my specialisation is quite different, I can heal a little.~
+@15   = ~I'm leaving for Sigil...~
+@16   = ~They teach us at uni in this way...~
+@17   = ~Even in pathogy some mistake can occur...~
+@18   = ~I manage pool matches in Sigil... we have even these orbs there...~
+@19   = ~Here you are spammers!~
+@20   = ~No evil is imminent... But we shall see...~
+@21   = ~Vanish, you follower of evil...~
+@22   = ~Be protected from the dark powers!~
+@23   = ~Nobody to be tempted is present. So, I show you how do the charming trick.~
+@24   = ~You'll be tempted for my pleasure, mortal!~
+@25   = ~I don't like chaos, that's why I give the orders.~
+@26   = ~We should be united.~
+@27   = ~Without being so fast, I'd never get my 3892 posts. Look...~
+@28   = ~Wait... time-out...~
+@29   = ~...~
+@30   = ~I'll give you something from my palette.~
+@31   = ~In Sigil I'm sometimes drawing like this... Sometimes colors, sometimes midnight dreams...~
+@32   = ~One has to be strong to be capable of doing administrator's work...~
+@33   = ~Let me show you how are we getting rid of the spam.~
+@34   = ~I'm expert in webs. This could help you...~
+@35   = ~This way we are giving bans!~
+@36   = ~I'm invisible for the most time... Like this way...~
+@37   = ~Such invisible help is really good thing.~
+@38   = ~I don't like cold. That's why I'm using this...~
+@39   = ~Hurt him plenty now!~
+@40   = ~It's time for ULTRA VIOLENCE!~
+
+@900   = ~Examine~
+
+@910   = ~CrowX~
+@911   = ~Dalucca~
+@912   = ~drake127~
+@913   = ~Jab~
+@914   = ~MCZ~
+@915   = ~Razfallow~
+@916   = ~sevencreature~
+@917   = ~Tokkar~
+@918   = ~Vampiria~
+@919   = ~Vlasak~
+@920   = ~yenn~
+@921   = ~Yachiko~
+
+@930   = ~Amulet of Sigil~
+@931   = ~This strange amulet is made from unknown grey metal. At first you can see a lot of runes engraved in it.
+In the center of the amulet there is engraved the biggest rune of all, stylized in the shape of www.sigil.cz. You cannot remember where but you are sure you've seen this rune before - maybe in "google" or "yahoo". The rune symbolizes certain portal.
+Apart from the middle part the amulet contains twelve other parts. Each is marked by unique rune and a short notice. The runes probably points to some unknown gods related to Sigil. If you want, you can examine each of those twelve parts.~
+
+@999   = ~Sigil's birthday mod~

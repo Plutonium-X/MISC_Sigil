@@ -1,0 +1,56 @@
+IF
+  !See([ENEMY])
+  Global("SGTAction","LOCALS",0)
+THEN
+  RESPONSE #100
+    SetGlobal("SGTMCZSummoned","GLOBAL",0)
+    Wait(2)
+    DisplayStringHead(Myself,@30)
+    Wait(5)
+    GiveItemCreate("scrl70",Player1,1,1,0)
+    Wait(4)
+    CreateVisualEffectObject("SPFLESHS",Myself)
+    Wait(1)
+    DestroySelf()
+END
+
+IF
+  Global("SGTAction","LOCALS",2)
+THEN
+  RESPONSE #100
+    DisplayStringHead(Myself,@15)
+    Wait(3)
+    CreateVisualEffectObject("SPSTRENH",Myself)
+    Wait(1)
+    DestroySelf()
+END
+
+IF
+  See([ENEMY])
+THEN
+  RESPONSE #50
+    SetGlobal("SGTAction","LOCALS",1)
+    Wait(2)
+    DisplayStringHead(Myself,@31)
+    Wait(5)
+    ReallyForceSpell(LastSeenBy(Myself),WIZARD_COLOR_SPRAY)
+    Wait(4)
+    DisplayStringHead(Myself,@15)
+    Wait(3)
+    CreateVisualEffectObject("SPSTRENH",Myself)
+    Wait(1)
+    DestroySelf()
+  RESPONSE #50
+    SetGlobal("SGTAction","LOCALS",1)
+    Wait(2)
+    DisplayStringHead(Myself,@31)
+    Wait(5)
+    ReallyForceSpell(LastSeenBy(Myself),WIZARD_PRISMATIC_SPRAY)
+    Wait(4)
+    DisplayStringHead(Myself,@15)
+    Wait(3)
+    CreateVisualEffectObject("SPSTRENH",Myself)
+    Wait(1)
+    DestroySelf()
+END
+

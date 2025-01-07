@@ -1,0 +1,63 @@
+@0 = ~Lequel des 12 éléments voulez-vous presser ?~
+@1 = ~"CrowX" - mentor de la violence~
+@2 = ~"Dalucca" - maîtresse de l'invisibilité~
+@3 = ~"drake127" - maître des toiles~
+@4 = ~"Jab" - destructeur d'âmes mortes~
+@5 = ~"MCZ" - maître des couleurs~
+@6 = ~"Razfallow" - gardien du silence~
+@7 = ~"sevencreature" - maître du temps~
+@8 = ~"Tokkar" - maître de l'unité et du commandement~
+@9 = ~"Vampiria" - dame du charme et de l'illusion~
+@10 = ~"Vlasák" - gardien de la bonté~
+@11 = ~"Yachiko" - maître de l'attention et de l'ordre~
+@12 = ~"yenn" - maître de la décomposition~
+@13 = ~Rangez l'amulette... ~
+@14 = ~Bien que ma spécialisation soit assez différente, je peux soigner un peu.~
+@15 = ~Je pars pour Sigil...~
+@16 = ~C'est ce qu'on nous apprend à l'école...~
+@17 = ~Et en pathologie, parfois ça ne sort pas tout à fait comme il faut...~
+@18 = ~Je gère un jeu de balle à Sigil... on a ces balles là...~
+@19 = ~Vous êtes des spammeurs !~
+@20 = ~Aucun mal n'est visible dans l'immédiat. Mais nous verrons...~
+@21 = ~Disparaissez, vous qui êtes du côté du mal...~
+@22 = ~"Soyez à l'abri des forces des ténèbres !~
+@23 = ~Il n'y a personne à séduire. Alors je vais vous montrer comment faire.~
+@24 = ~Tu seras séduit pour mon plaisir, mortel !~
+@25 = ~Je n'aime pas le chaos, alors je donne des ordres.~
+@26 = ~Nous devrions nous serrer les coudes.~
+@27 = ~Si je n'étais pas rapide, je n'aurais jamais atteint 3784 messages. Regardez...~
+@28 = ~Attendez... Temps mort...~
+@29   = ~...~
+@30 = ~Je vais vous donner quelque chose de ma palette.~
+@31 = ~Sur Sigil, il m'arrive de peindre ainsi... Parfois des couleurs, parfois des rêves de minuit.~
+@32 = ~Pour être administrateur, il faut être fort.~
+@33 = ~Je vais vous montrer comment nous traitons le spam.~
+@34 = ~Je connais bien les réseaux et les sites web. Cela pourrait vous aider...~
+@35 = ~C'est comme ça qu'on bannit !~
+@36 = ~La plupart du temps, je suis invisible... Comme ça...~
+@37 = ~Une aide invisible comme celle-là n'est pas du tout une mauvaise chose.~
+@38 = ~Je n'aime pas le froid. J'utilise ça pour m'en protéger...~
+@39 = ~Faites-lui très mal maintenant !~
+@40 = ~C'est l'heure de l'ULTRA VIOLENCE !~
+
+@900   = ~Examiner~
+
+@910   = ~CrowX~
+@911   = ~Dalucca~
+@912   = ~drake127~
+@913   = ~Jab~
+@914   = ~MCZ~
+@915   = ~Razfallow~
+@916   = ~sevencreature~
+@917   = ~Tokkar~
+@918   = ~Vampiria~
+@919   = ~Vlasak~
+@920   = ~yenn~
+@921   = ~Yachiko~
+
+@930   = ~Amulette de Sigil~
+@931   = ~Cette étrange amulette est faite d'un métal gris inconnu. Au premier coup d'œil, on peut voir de nombreuses runes gravées dessus.
+Au centre de l'amulette est gravée la plus grande rune de toutes, stylisée en forme de www.sigil.cz. Vous ne vous souvenez plus où, mais vous êtes sûr d'avoir déjà vu cette rune - peut-être dans "google" ou "yahoo". La rune symbolise un certain portail.
+Outre la partie centrale, l'amulette contient douze autres éléments. Chacun d'eux est gravé d'une unique rune et d'une courte notice. Les runes indiquent probablement des dieux inconnus liés à Sigil. Si vous le souhaitez, vous pouvez examiner chacun de ces douze éléments.~
+
+@999 = ~Mod d'anniversaire de Sigil.cz~
