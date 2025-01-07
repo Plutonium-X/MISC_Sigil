@@ -1,0 +1,3 @@
+Version 1.2 :
+Ajout de la compatibilité avec BG2EE, EET et IWDEE
+Ajout de la traduction en français (en se basant sur l'anglais ET le tchèque, parce que la traduction anglaise... ouch !)
