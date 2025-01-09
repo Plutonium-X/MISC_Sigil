@@ -1,4 +1,4 @@
-Mod d'anniversaire du Forum Sigil.cz
+# Mod d'anniversaire du Forum Sigil.cz
 
 Ce mod a été crée par l'équipe de Sigil.cz pour célébrer l'anniversaire du forum.  
 Vous gagnez automatiquement au début de chaque partie ou après rechargement une amulette qui vous permet de convoquer à volonté l'une des 12 célèbres personnalités du forum. 
