@@ -10,5 +10,5 @@ Le code est écrit de telle sorte que si la personnalité lance un sort de buff 
 La méthode est contraignante (vous devez "examiner" une amulette portée).
 
 Notes : 
-Ce mod s'installe aussi sous IWDEE.
+Ce mod s'installe aussi sous IWDEE.  
 Il existe <a href=https://github.com/Deratiseur/Mods_Tweaker>un mod</a> pour rendre les deux options infinies et l"utilisation de l'amulette moins contraignante.
